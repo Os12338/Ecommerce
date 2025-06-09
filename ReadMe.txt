@@ -1,0 +1,1 @@
+-die and exit => no difference

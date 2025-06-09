@@ -1,0 +1,20 @@
+{
+    "name": "ecommerce_1/practice",
+    "description": "simple ecommerce for testing",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "APP/"
+        }
+    },
+    "authors": [
+        {
+            "name": "omars"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer" : "^6.5"
+    }
+}
